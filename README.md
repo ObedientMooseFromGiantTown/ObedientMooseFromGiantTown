@@ -64,13 +64,6 @@ Built ResNet-50 architecture for outfit matching with attention + triplet loss.
 
 ---
 
-## 📈 GitHub Stats
-
-![Shameek’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
-
----
-
 ## 📫 Reach Me
 - [LinkedIn](https://www.linkedin.com/in/shameekp/)
 - [GitHub](https://github.com/YourUsername)
