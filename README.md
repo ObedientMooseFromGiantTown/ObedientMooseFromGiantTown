@@ -24,6 +24,7 @@ I'm a graduate student at the **London School of Economics**, pursuing an **MSc 
 | ST456       | Deep Learning |
 | ST457       | Graph Data Analytics and Representation Learning |
 | ST459       | Quantum Computation and Information |
+| ST498 | Capstone Project|
 
 
 ---
