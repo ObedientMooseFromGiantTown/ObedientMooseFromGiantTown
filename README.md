@@ -16,16 +16,11 @@ I'm a graduate student at the **London School of Economics**, pursuing an **MSc 
 
 ### 📚 Coursework Highlights
 
-#### Compulsory Courses
 | Course Code | Title |
 |-------------|-------|
 | ST443       | Machine Learning and Data Mining |
 | ST445       | Managing and Visualising Data |
 | ST447       | Data Analysis and Statistical Methods |
-
-#### Specialisation Courses
-| Course Code | Title |
-|-------------|-------|
 | ST456       | Deep Learning |
 | ST457       | Graph Data Analytics and Representation Learning |
 | ST459       | Quantum Computation and Information |
