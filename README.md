@@ -35,21 +35,23 @@ I'm a graduate student at the **London School of Economics**, pursuing an **MSc 
 
 ## 🧪 Highlight Projects
 
-### 🔹 Predicting E‑Commerce Conversion Value
-Two‑stage pipeline: classifier (conversion) + regressor (purchase value). Custom feature engineering & SHAP for interpretability.  
-**Built with:** LightGBM, XGBoost, Optuna, SHAP, pandas
+| **Project Area**                | **Project Title**                                                                                      |
+|-------------------------------|---------------------------------------------------------------------------------------------------------|
+| Machine Learning              | Predicting E-Commerce Conversion Value using Advanced ML & Feature Engineering                         |
+| Graph Neural Networks         | Predicting HIV Inhibition with Graph Neural Networks and Graph Kernels                                  |
+| Deep Learning                 | Scene-Based Complementary Fashion Recommendation with Deep Learning                                     |
+| NLP & Embedding Techniques    | Twitch Stream Chat Modelling with NLP and Embedding Techniques                                          |
+| Regression (Insurance)        | Predicting Car Insurance Pure Premium Using Zero-Inflated Regression                                    |
+| Data Integration & APIs       | Quantitative Analysis of Movie Success Factors Using External APIs                                     |
+| Feature Selection & BioML     | Comparison of Binary Classification and Feature Selection Methods for Bio-medical Data                 |
+| Statistical Modelling         | Statistical Modelling for Optimal Driving Test Center Selection                                         |
+| Full-Stack Development        | Music Streaming Platform with Flask & VueJS                                                             |
+| Geospatial Machine Learning   | Taxi Fare Prediction Using ML & Geospatial Features                                                     |
+| Strategic Analytics           | Healthcare Workflow & Consumer Insight Optimisation at Sarvodaya                                       |
+| Time Series Forecasting       | Time Series Forecasting and Anomaly Detection in Financial Markets                                      |
+| Binary Classification         | Predict Blood Donations                                                                                 |
+| Web App Development           | Data Science Web App with Streamlit and Python                                                          |
 
-### 🔹 HIV Inhibition Prediction with Graph Models  
-Compared GNNs (GCN, GIN) with WL kernels using OGB‑MolHIV dataset.  
-**Built with:** PyTorch Geometric, RDKit, GraKeL
-
-### 🔹 Twitch Chat Analysis with Node2Vec  
-Runner-up at LSE Data Science Showcase. Modeled emoji-based sentiment in gaming communities.  
-**Built with:** NLP, t-SNE, Node2Vec
-
-### 🔹 Scene-Based Fashion Recommender  
-Built ResNet-50 architecture for outfit matching with attention + triplet loss.  
-**Built with:** TensorFlow, Keras, t-SNE
 
 ---
 
