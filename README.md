@@ -1,6 +1,6 @@
 ### Hi, I’m Shameek 👋
 
-I'm a graduate student at the **London School of Economics**, pursuing an **MSc in Data Science**. I’m passionate about making data interpretable, building robust machine learning systems, and exploring the frontiers of **graph learning, applied ML, and behavioural analytics**.  
+I'm a graduate student at the **London School of Economics**, pursuing an **MSc in Data Science**. I’m passionate about making data interpretable, building robust machine learning systems, and exploring the frontiers of **graph learning, applied ML, and quantum computing**.  
 > _Curiosity killed the cat — but it got me working._ 🐾
 
 ---
