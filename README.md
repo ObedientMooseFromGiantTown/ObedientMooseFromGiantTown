@@ -7,22 +7,29 @@ I'm a graduate student at the **London School of Economics**, pursuing an **MSc 
 
 ## 🚀 About Me
 - 🎓 MSc Data Science @ LSE (2024–2025)
-- 🧠 Background in behavioural & data science
-- 🏢 Experience: Analytics at Paytm, Data Science Society @ LSE
-- 👨‍💻 Tools: Python, R, SQL, PyTorch Geometric, LightGBM, XGBoost, SHAP, Optuna
+- 🎓 Diploma in Data Science and Applications @ Indian Institute of Technology, Madras (2021-2023)
+- 🎓 BSc Statistics with Econ @ University of Delhi (2019–2022)
+- 🏢 Experience: Analytics at Paytm, Research @ WTO
+- 👨‍💻 Proficient: Python, R, SQL
 
 ---
 
-## 📚 Coursework
-| Code | Title                          |
-|------|--------------------------------|
-| ST445 | Managing and Visualising Data |
-| MY474 | Machine Learning              |
-| MY475 | Deep Learning                 |
-| MY452 | Applied Regression            |
-| MY472 | Data for Data Scientists      |
-| MY470 | Computer Programming          |
-| MY400 | Capstone Project              |
+### 📚 Coursework Highlights
+
+#### Compulsory Courses
+| Course Code | Title |
+|-------------|-------|
+| ST443       | Machine Learning and Data Mining |
+| ST445       | Managing and Visualising Data |
+| ST447       | Data Analysis and Statistical Methods |
+
+#### Specialisation Courses
+| Course Code | Title |
+|-------------|-------|
+| ST456       | Deep Learning |
+| ST457       | Graph Data Analytics and Representation Learning |
+| ST459       | Quantum Computation and Information |
+
 
 ---
 
