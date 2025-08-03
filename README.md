@@ -56,13 +56,33 @@ I'm a graduate student at the **London School of Economics**, pursuing an **MSc 
 ---
 
 ## 🔧 Technologies
+
 ![Python](https://img.shields.io/badge/-Python-black?logo=python)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql)
-![LightGBM](https://img.shields.io/badge/-LightGBM-darkgreen)
+![VBA](https://img.shields.io/badge/-VBA-blue)
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange)
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi)
+![GA4](https://img.shields.io/badge/-Google%20Analytics-orange?logo=googleanalytics)
+
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-f7931e?logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f00?logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-d00000?logo=keras)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-brightgreen)
-![PyTorch Geometric](https://img.shields.io/badge/-PyTorch%20Geometric-red?logo=pytorch)
-![SHAP](https://img.shields.io/badge/-SHAP-orange)
+![LangChain](https://img.shields.io/badge/-LangChain-blueviolet)
+![PySpark](https://img.shields.io/badge/-PySpark-e25a1c)
+
+![Hadoop](https://img.shields.io/badge/-Hadoop-66ccff?logo=apache)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29b5e8?logo=snowflake)
+![GCP](https://img.shields.io/badge/-GCP-4285f4?logo=googlecloud)
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira)
+
+![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap)
+![SCADA](https://img.shields.io/badge/-SCADA-gray)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice)
 
 ---
 
